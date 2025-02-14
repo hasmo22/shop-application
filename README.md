@@ -61,10 +61,10 @@ php artisan serve
 
 At this point, the application should be running: http://127.0.0.1:800
 
-General comments, frontend considerations and admin panel:
-API docs: I didn't have time to generate API docs, I would probably use a library like laravel-apidoc-generator which I've used in the past.
-Frontend design: I kept the front-end simple just to illustrate the functionality. If I had time, I'd make it look a little nicer.
-Admin panel: Please click and register on screen, this will also log you into the app and you can begin viewing products.
+General comments, frontend considerations and admin panel: <br>
+API docs: I didn't have time to generate API docs, I would probably use a library like laravel-apidoc-generator which I've used in the past.<br>
+Frontend design: I kept the front-end simple just to illustrate the functionality. If I had time, I'd make it look a little nicer.<br>
+Admin panel: Please click and register on screen, this will also log you into the app and you can begin viewing products.<br>
 
 ## Run tests
 
