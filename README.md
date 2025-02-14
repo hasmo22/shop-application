@@ -9,10 +9,10 @@ This is a solution for the Watchtowr tech challenge. It satisfies the user stori
 
 Bonus:
 1. Authenticate the API using Laravel Sanctum. ✅ </br>
-The token is stored as a bcrypt hashed value, something like $2y$12$NxA5gDwMO6BgMzhA24Rj9.m4t9PtasEK//zcX0dVQeup7aR7Qp16i </br>
+The token is stored as a bcrypt hashed value, something like $2y$12$NxA5gDwMO6BgMzhA24Rj9.m4t9PtasEK//zcX0dVQeup7aR7Qp16i </br></br>
 The raw token used/sent to the user a base64 version, something like JDJ5JDEyJE54QTVnRHdNTzZCZ016aEEyNFJqOS5tNHQ5UHRhc0VLLy96Y1gwZFZRZXVwN2FSN1FwMTZp
 
-In a production app, you could use something like AWS Cognito to manage Authentication instad of Laravel Sanctum for user pooling, auth providers (Google, etc.).
+In a production app, you could use something like AWS Cognito to manage Authentication instead of Laravel Sanctum for user pooling, auth providers (Google, etc.).
 
 Excpections:
 - Functionality works as expected, there is a frontend which you can use view, add products to a cart and then checkout. 
