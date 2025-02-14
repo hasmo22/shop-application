@@ -50,6 +50,7 @@ php artisan db:seed
 
 4. Set the application key
 ```
+cp .env.example .env
 php artisan key:generate
 ```
 
